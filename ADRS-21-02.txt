@@ -1,0 +1,25 @@
+ADRS-FIRST-CLASS 02/19/2020
+
+-----------------
+
+git init
+git add ADRS-21-02.txt
+git commit -m "NOTES-01-ADRS"
+git remote add origin https://github.com/MarcosBan/ADRS.git
+git push -u origin master
+
+
+-----------------
+
+****tv4d6r - Participar da turma de Maratona de programação.
+
+
+------
+
+Comunicação CLIENTE - SERVIDOR
+
+Sempre o cliente vai iniciar a conexão.
+
+--------
+
+
