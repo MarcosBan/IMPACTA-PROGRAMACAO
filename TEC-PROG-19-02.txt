@@ -1,0 +1,19 @@
+﻿PROGRAMAÇÃO-FIRST-CLASS 02/19/2020
+
+-----------------
+
+git init
+git add TEC-PROG-19-02.txt
+git commit -m "NOTES-01-PROG"
+git remote add origin https://github.com/MarcosBan/IMPACTA-PROGRAMACAO.git
+git push -u origin master
+
+-----------------
+
+THE HUXLEY "SITE DE PROGRAMACAO"
+
+-Matematica (Chave para estudos de programação)
+
+-Maquina Universal 
+
+
