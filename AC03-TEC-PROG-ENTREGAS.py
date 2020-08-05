@@ -2,7 +2,7 @@
 AC03-TEC-PROGRAMAÇÕES-RC1
 Programa para informar media de entregas em 7 dias.
 
-Autor: Marcos Silva (1902671)
+Autor: Marcos Silva (-)
 Data: 21/04/2020
 
 """
