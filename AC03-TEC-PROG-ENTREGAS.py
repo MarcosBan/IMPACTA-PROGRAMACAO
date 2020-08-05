@@ -9,7 +9,7 @@ Data: 21/04/2020
 diasMeta = 0
 entreTotalDias = 0
 for contDias in range (0,7):
-    entreDias = int(input())display dlmalloc-memory
+    entreDias = int(input())
     entreTotalDias = entreTotalDias + entreDias
     mediaEntre = entreTotalDias // 7
     if entreDias >= 100:
